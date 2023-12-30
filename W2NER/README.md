@@ -1,4 +1,6 @@
  # Unified Named Entity Recognition as Word-Word Relation Classification
+
+ AAAI 2022 paper: [Unified Named Entity Recognition as Word-Word Relation Classification](https://arxiv.org/pdf/2112.10070.pdf)
  
 This repository corresponds to the PaddlePaddle implementation of W2NER.
 
