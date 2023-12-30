@@ -35,6 +35,12 @@ This repository corresponds to the PaddlePaddle implementation of W2NER.
 >> python main.py --config ./config/example.json
 ```
 
-## 5. Pretrained models
+## 5. Evaluation
+
+```bash
+>> python main.py --ckpt [Pretrained Model Path]
+```
+
+## 6. Pretrained models
 
 We provide a pretrained model, which can be downloaded from  [BaiduYun](),  keyword is: . You should unzip and put it in the main directory.
