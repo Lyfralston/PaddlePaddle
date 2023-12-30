@@ -7,13 +7,13 @@ This repository now contains 10 kinds of models and corresponding codes. You can
 
 | Model        | Hyperlink                        |
 | ------------ | -------------------------------- |
-| W2NER        | [W2NER](./mcan/README.md)         |
-| CLNNER       | [CLNNER](./mcan/README.md)         |
-| MRN          | [MRN](./QAnet/README.md)       |
-| LBMRN        | [LBMRN](./BAN/README.md)           |
-| GBMRN        | [GBMRN](./BAN/README.md)           |
-| HiTrans      | [HiTrans](./MFB/README.md)           |
-| Emory        | [Emory](./MFH/README.md)           |
-| ERC          | [ERC](./MMNasNet/README.md) |
-| PURE-entity  | [PURE-entity](./SongNet/README.md) |
-| PURE-relation| [PURE-relation](./Guyu/README.md)   |
+| W2NER        | [W2NER](./W2NER/README.md)         |
+| CLNNER       | [CLNNER](./CLNNER/README.md)         |
+| MRN          | [MRN](./MRN/README.md)       |
+| LBMRN        | [LBMRN](./LBMRN/README.md)           |
+| GBMRN        | [GBMRN](./GBMRN/README.md)           |
+| HiTrans      | [HiTrans](./HiTrans/README.md)           |
+| Emory        | [Emory](./Emory/README.md)           |
+| ERC          | [ERC](./ERC/README.md) |
+| PURE-entity  | [PURE-entity](./PURE-entity/README.md) |
+| PURE-relation| [PURE-relation](./PURE-relation/README.md)   |
