@@ -18,7 +18,7 @@ Our experiments are based on three datasets: ACE04, ACE05, and SciERC. Please fi
 ## 2. Train/evaluate the entity model
 
 You can use `run_entity.py` with `--do_train` to train an entity model and with `--do_eval` to evaluate an entity model.
-A trianing command template is as follow:
+A training command template is as follows:
 ```bash
 python run_entity.py \
     --do_train --do_eval [--eval_test] \
