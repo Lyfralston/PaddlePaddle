@@ -1,1 +1,38 @@
+ # Unified Named Entity Recognition as Word-Word Relation Classification
+ 
+This repository corresponds to the PaddlePaddle implementation of W2NER.
 
+## 1. Environments
+
+```
+- python (3.8.12)
+- cuda (11.4)
+```
+
+## 2. Dataset
+
+- [Conll 2003](https://www.clips.uantwerpen.be/conll2003/ner/)
+- [OntoNotes 4.0](https://catalog.ldc.upenn.edu/LDC2011T03)
+- [OntoNotes 5.0](https://catalog.ldc.upenn.edu/LDC2013T19)
+- [ACE 2004](https://catalog.ldc.upenn.edu/LDC2005T09)
+- [ACE 2005](https://catalog.ldc.upenn.edu/LDC2006T06)
+- [GENIA](http://www.geniaproject.org/genia-corpus)
+- [CADEC](https://pubmed.ncbi.nlm.nih.gov/25817970/)
+- [ShARe13](https://clefehealth.imag.fr/?page_id=441)
+- [ShARe14](https://sites.google.com/site/clefehealth2014/)
+
+## 3. Preparation
+
+- Download dataset
+- Process them to fit the same format as the example in `data/`
+- Put the processed data into the directory `data/`
+
+## 4. Training
+
+```bash
+>> python main.py --config ./config/example.json
+```
+
+## 5. Pretrained models
+
+We provide a pretrained model, which can be downloaded from  [BaiduYun](),  keyword is: . You should unzip and put it in the main directory.
