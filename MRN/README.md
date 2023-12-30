@@ -25,6 +25,12 @@ This repository corresponds to the PaddlePaddle implementation of MRN.
 >> python main.py
 ```
 
-# 4. Pretrained models
+# 4. Evaluation
+
+```bash
+>> python main.py --evaluate
+```
+
+# 5. Pretrained models
 
 We provide a pretrained model, which can be downloaded from  [BaiduYun](),  keyword is: . You should unzip and put it in the main directory.
