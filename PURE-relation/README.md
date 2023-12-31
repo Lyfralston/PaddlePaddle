@@ -47,4 +47,4 @@ python run_eval.py --prediction_file {path to output_dir}/predictions.json
 
 ## 3. Pretrained models
 
-We provide a pretrained model and a entity prediction json file, which can be downloaded from  [BaiduYun](),  keyword is: . You should unzip and put them in the main directory.
+We provide a pretrained model, which can be downloaded from  [BaiduYun](),  keyword is: . You should unzip and put it in the main directory. Corresponding to this pretrained model, we also give an entity prediction json file in `entity_output` directory.
