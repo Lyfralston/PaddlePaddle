@@ -41,4 +41,4 @@ The predictions of the entity model will be saved as a file (`ent_pred_dev.json`
 
 ## 3. Pretrained models
 
-We provide a pretrained model, which can be downloaded from  [BaiduYun](),  keyword is: . You should unzip and put it in the main directory.
+We provide a pretrained model, which can be downloaded from  [BaiduYun](https://pan.baidu.com/s/1uAhtgnE5eEC5TuPMT_y_5Q?pwd=2ajm),  keyword is: 2ajm. You should unzip and put it in the main directory.
