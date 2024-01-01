@@ -33,4 +33,4 @@ This repository corresponds to the PaddlePaddle implementation of MRN.
 
 ## 5. Pretrained models
 
-We provide a pretrained model, which can be downloaded from  [BaiduYun](),  keyword is: . You should unzip and put it in the main directory.
+We provide a pretrained model, which can be downloaded from  [BaiduYun](https://pan.baidu.com/s/1b99dP12BKK4vXqovEWCE_g?pwd=ptju),  keyword is: ptju. You should unzip and put it in the main directory.
