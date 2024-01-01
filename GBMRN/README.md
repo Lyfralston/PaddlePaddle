@@ -34,4 +34,4 @@ This repository corresponds to the PaddlePaddle implementation of GBMRN.
 
 ## 5. Pretrained models
 
-We provide a pretrained model, which can be downloaded from  [BaiduYun](),  keyword is: . You should unzip and put it in the main directory.
+We provide a pretrained model, which can be downloaded from  [BaiduYun](https://pan.baidu.com/s/1QlIX5FjOIbNxY_ufqcp0yw?pwd=s3gc),  keyword is: s3gc. You should unzip and put it in the main directory.
