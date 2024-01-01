@@ -43,4 +43,4 @@ This repository corresponds to the PaddlePaddle implementation of W2NER.
 
 ## 6. Pretrained models
 
-We provide a pretrained model, which can be downloaded from  [BaiduYun](),  keyword is: . You should unzip and put it in the main directory.
+We provide a pretrained model, which can be downloaded from  [BaiduYun](https://pan.baidu.com/s/1VWIpZltjb6Rd8uqG9VQo2A?pwd=edns),  keyword is: edns. You should unzip and put it in the main directory.
