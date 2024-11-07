@@ -8,7 +8,6 @@
 ```
 conda install
   - python 3.8
-  - pytorch 2.0.1
   - numpy 1.24.3
   - ipdb 0.13.13
   - tqdm 4.65.0
@@ -20,7 +19,6 @@ conda install
 ```
 ```
 pip install
-  - transformers 4.30.0
   - sentencepiece 0.1.96
   - scipy 1.5.4
   - spacy 3.1.4
